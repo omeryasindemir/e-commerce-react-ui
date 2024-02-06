@@ -34,13 +34,16 @@ const SectionLeft = () => {
         </div>
       </div>
       <div className="product_card_text">
+        <div>
         <h3>Title 1</h3>
+        <br />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
           necessitatibus ut, nostrum ex voluptatibus cumque voluptate
           inventore aut odit, dolorem, illo voluptas consequuntur eius. Odio
           aperiam expedita ab architecto voluptas.
         </p>
+        </div>
         <button>See All <i className="bi bi-caret-right-fill"></i></button>
       </div>
     </div>

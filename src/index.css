@@ -23,6 +23,13 @@ button{
   cursor: pointer;
 }
 
+.felx{
+  padding: 20px;
+  color: white;
+  background-color: #161616;
+  text-align: center;
+}
+
 .scroll_bar{
   height: 5px;
   width: 0%;
@@ -230,6 +237,7 @@ section {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   gap: 20px;
 }
 
